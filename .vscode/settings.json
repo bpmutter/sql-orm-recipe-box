@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "recipe_box_development",
+            "dialect": "PostgreSQL",
+            "name": "recipe_box",
+            "password": "HfKfK79k",
+            "port": 5432,
+            "server": "localhost",
+            "username": "sequelize_recipe_box_app"
+        }
+    ]
+}
